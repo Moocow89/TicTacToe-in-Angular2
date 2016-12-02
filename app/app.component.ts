@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { PlayerSelectComponent } from './components/playerSelect.component';
+import { PlayerSelectComponent } from './playerSelect.component';
 
 @Component({
   selector: 'my-app',
