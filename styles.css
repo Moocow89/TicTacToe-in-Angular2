@@ -12,7 +12,7 @@ body {
   background: linear-gradient(135deg, #2f2f2f 25%, #191919);
   width: 600px;
   height: 700px;
-  margin: auto;
+  margin: 100px auto;
   border: 20px solid #c0c0c0;
 }
 
